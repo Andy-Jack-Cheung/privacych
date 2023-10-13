@@ -1,0 +1,51 @@
+﻿{
+    "account": "Rock",
+    "common": "http://www.bejson.com",
+    "page": 88,
+    "isNonProfit": true,
+    "address": {
+        "street": "Science Park Road.",
+        "city": "Suzhou, Jiangsu",
+        "country": "China"
+    },
+    "lists": [
+        {
+            "name": "William",
+            "avatar": "http://www.careyi.com/lists/20220221143932.png",
+            "content":"May I wear loneliness as my armor and never be hurt again",
+           "backcolor":"#FF55A3",
+           "details":{
+                  "id":"20220221143932",
+                  "detailimage": "http://www.careyi.com/lists/2022022114393278.png",
+                  "isread":true,
+                  "islove":false
+}
+        },
+        {
+            "name": "Ross",
+            "avatar": "http://www.careyi.com/lists/20220110102123.png",
+            "content": "Work hard to love yourself and love others",
+            "backcolor":"#FFAA1D",
+            "details":{
+                "id":"20220110102123",
+                "detailimage": 
+"http://www.careyi.com/lists/2022011010212378.png",
+                "isread":false,
+                "islove":true
+}
+},
+        {
+            "name": "Betty",
+            "avatar": "http://www.careyi.com/lists/20220312094528.png",
+            "content":"May I be the sun, bright and not sad",
+            "backcolor":"#FF91AF",
+            "details":{
+                "id":"20220312094528",
+                "detailimage":
+"http://www.careyi.com/lists/2022031209452878.png",
+                "isread":true,
+                "islove":true
+}
+        }
+    ]
+}
