@@ -16,7 +16,7 @@
            "backcolor":"#FF55A3",
            "details":{
                   "id":"20220221143932",
-                  "detailimage": "http://www.careyi.com/lists/2022022114393278.png",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
                   "isread":true,
                   "islove":false
 }
@@ -28,8 +28,8 @@
             "backcolor":"#FFAA1D",
             "details":{
                 "id":"20220110102123",
-                "detailimage": 
-"http://www.careyi.com/lists/2022011010212378.png",
+                "detail": 
+"aHR0cHM6Ly9lYWVzZGV2ZWxvcC5naXRodWIuaW8=",
                 "isread":false,
                 "islove":true
 }
@@ -41,8 +41,8 @@
             "backcolor":"#FF91AF",
             "details":{
                 "id":"20220312094528",
-                "detailimage":
-"http://www.careyi.com/lists/2022031209452878.png",
+                "detail":
+"aHR0cHM6Ly9kZXZlbG9wLmdpdGh1Yi5pbw==",
                 "isread":true,
                 "islove":true
 }
