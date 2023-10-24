@@ -1,7 +1,7 @@
 {
     "account": "Benjamin",
     "common": "http://www.caryi.com",
-    "page": "44",
+    "page": "88",
     "isNonProfit": true,
     "address": {
         "street": "Science Park Road.",
@@ -13,7 +13,7 @@
             "name": "Nicole",
             "avatar": "http://www.careyi.com/lists/202310242114626.png",
             "content":"May I wear loneliness as my armor and never be hurt again",
-           "backcolor":"#FFAA1D",
+           "backcolor":"#FFFFFF",
            "details":{
                   "id":"202310242114626",
                   "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
