@@ -16,7 +16,7 @@
            "backcolor":"#FF55A3",
            "details":{
                   "id":"202310242114626",
-                  "detail": "aHR0cHM6Ly93d3cucXVhbnR1bWVyYXMuY29t",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
                   "isread":true,
                   "islove":false
 }
@@ -29,7 +29,7 @@
             "details":{
                 "id":"202310242114629",
                 "detail":
-"aHR0cHM6Ly9lYWVzZGV2ZWxvcC5naXRodWIuaW8=",
+"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
                 "isread":false,
                 "islove":true
 }
@@ -42,7 +42,7 @@
             "details":{
                 "id":"202310242114631",
                 "detail":
-"aHR0cHM6Ly9kZXZlbG9wLmdpdGh1Yi5pbw==",
+"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
                 "isread":true,
                 "islove":true
 }
