@@ -1,19 +1,6 @@
 {
     "account": "Benjamin",
     "common": "http://www.caryi.com",
-    /*
-    原来的 type -》 page
-    0 -> 44
-    1 -> 55
-    2 -> 66
-    3 -> 77
-    4 -> 88
-    
-    acaddress -> detail
-    accolor -> backcolor
-    
-    */
-    
     "page": 88,
     "isNonProfit": true,
     "address": {
