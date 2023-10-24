@@ -1,0 +1,62 @@
+{
+    "account": "Benjamin",
+    "common": "http://www.caryi.com",
+    /*
+    原来的 type -》 page
+    0 -> 44
+    1 -> 55
+    2 -> 66
+    3 -> 77
+    4 -> 88
+    
+    acaddress -> detail
+    accolor -> backcolor
+    
+    */
+    
+    "page": "88",
+    "isNonProfit": true,
+    "address": {
+        "street": "Science Park Road.",
+        "city": "Suzhou, Hubei",
+        "country": "China"
+    },
+    "lists": [
+        {
+            "name": "Nicole",
+            "avatar": "http://www.careyi.com/lists/202310242114626.png",
+            "content":"May I wear loneliness as my armor and never be hurt again",
+           "backcolor":"#FF55A3",
+           "details":{
+                  "id":"202310242114626",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "isread":true,
+                  "islove":false
+}
+        },
+        {
+            "name": "Susan",
+            "avatar": "http://www.careyi.com/lists/202310242114629.png",
+            "content": "Work hard to love yourself and love others",
+            "backcolor":"#FFAA1D",
+            "details":{
+                "id":"202310242114629",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
+                "isread":false,
+                "islove":true
+}
+},
+        {
+            "name": "Aaron",
+            "avatar": "http://www.careyi.com/lists/202310242114631.png",
+            "content":"May I be the sun, bright and not sad",
+            "backcolor":"#FF91AF",
+            "details":{
+                "id":"202310242114631",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
+                "isread":true,
+                "islove":true
+}
+        }
+    ]
+}
