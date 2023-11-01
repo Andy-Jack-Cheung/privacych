@@ -1,58 +1,45 @@
 {
-    "account": "Nigel",
+    "account": "Frederick",
     "common": "http://www.caryi.com",
-    /*
-    原来的 type -》 page
-    0 -> 2023102544
-    1 -> 2023102555
-    2 -> 2023102566
-    3 -> 2023102577
-    4 -> 2023102588
-    
-    acaddress -> detail
-    accolor -> backcolor
-    
-    */
-    
-    "page": "2023102588",
+    "page": "2023110188",
     "isNonProfit": true,
     "address": {
         "street": "Science Park Road.",
-        "city": "Suzhou, HuNan",
+        "city": "Suzhou, Xinjiang",
         "country": "China"
     },
     "lists": [
         {
-            "name": "Audrey",
-            "avatar": "http://www.careyi.com/lists/2023102511531701.png",
+            "name": "Jerome",
+            "avatar": "http://www.careyi.com/lists/2023110118393001.png",
             "content":"May I wear loneliness as my armor and never be hurt again",
            "backcolor":"#FFFFFF",
            "details":{
-                  "id":"2023102511531701",
+                  "id":"2023110118393001",
                   "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
                   "isread":true,
                   "islove":false
 }
         },
         {
-            "name": "Peg",
-            "avatar": "http://www.careyi.com/lists/2023102511531702.png",
+            "name": "Nathaniel",
+            "avatar": "http://www.careyi.com/lists/2023110118393002.png",
             "content": "Work hard to love yourself and love others",
             "backcolor":"#FFAA1D",
             "details":{
-                "id":"2023102511531702",
+                "id":"2023110118393002",
                 "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
                 "isread":false,
                 "islove":true
 }
 },
         {
-            "name": "Winifred",
-            "avatar": "http://www.careyi.com/lists/2023102511531703.png",
+            "name": "Roy",
+            "avatar": "http://www.careyi.com/lists/2023110118393003.png",
             "content":"May I be the sun, bright and not sad",
             "backcolor":"#FF91AF",
             "details":{
-                "id":"2023102511531703",
+                "id":"2023110118393003",
                 "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
                 "isread":true,
                 "islove":true
