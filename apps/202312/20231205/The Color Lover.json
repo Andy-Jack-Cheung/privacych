@@ -1,0 +1,51 @@
+{
+    "account": "Nicolas",
+    "common": "http://www.carehot.com",
+    "page": "2023120588",
+    "isNonProfit": true,
+    "address": {
+        "street": "Rodney Park Road.",
+        "city": "Simon, Eleanor",
+        "country": "Grace"
+    },
+    "lists": [
+        {
+            "name": "Margery",
+            "avatar": "http://www.carehot.com/lists/2023120516594401.png",
+            "content":"May I wear loneliness as my armor and never be hurt again",
+           "backcolor":"#FFFFFF",
+           "details":{
+                  "id":"2023120516594401",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "isread":true,
+                  "islove":false
+           }
+        },
+        {
+            "name": "Tracy",
+            "avatar": "http://www.carehot.com/lists/2023120516594402.png",
+            "content": "Work hard to love yourself and love others",
+            "backcolor":"#FFAA1D",
+            "details":{
+                "id":"2023112915152702",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
+                "isread":false,
+                "islove":true
+            }
+        },
+        {
+            "name": "Viola",
+            "avatar": "http://www.carehot.com/lists/2023120516594403.png",
+            "content":"May I be the sun, bright and not sad",
+            "backcolor":"#FF91AF",
+            "details":{
+                "id":"2023120516594403",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
+                "isread":true,
+                "islove":true
+            }
+        }
+    ],
+    "schemelist":["line","whatsapp","instagram","youtube","tiktok","telegram","alipay","taobao","alipay","tmall","mqq","weixin","jd","weibo","upwallet","unionpay","zalo"],
+    "absolutelist":["line","whatsapp","zalo","tele","tiktok","ace","witter"]
+}
