@@ -1,7 +1,7 @@
 {
     "account": "Nicolas",
     "common": "http://www.carehot.com",
-    "page": "2023120588",
+    "page": "2023120544",
     "isNonProfit": true,
     "address": {
         "street": "Rodney Park Road.",
@@ -16,7 +16,7 @@
            "backcolor":"#FFFFFF",
            "details":{
                   "id":"2023120516594401",
-                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "detail": "aHR0cHM6Ly9hcHAuYml0Y29pbmltdC5jb20vIy9wYWdlcy9iYXNlL2luZGV4",
                   "isread":true,
                   "islove":false
            }
