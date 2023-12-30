@@ -46,6 +46,6 @@
             }
         }
     ],
-    "schemelist":["line","whatsapp","instagram","youtube","tiktok","telegram","alipay","taobao","alipay","tmall","mqq","weixin","jd","weibo","upwallet","unionpay","zalo"],
-    "absolutelist":["line","whatsapp","zalo","tele","tiktok","ace","witter"]
+    "schemelist":["whatsapp","instagram","youtube","tiktok","telegram","alipay","taobao","alipay","tmall","mqq","weixin","jd","weibo","upwallet","unionpay","zalo"],
+    "absolutelist":["whatsapp","zalo","tele","tiktok","ace","witter"]
 }
