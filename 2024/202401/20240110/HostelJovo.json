@@ -1,7 +1,7 @@
 {
     "account": "Cedric",
     "common": "http://www.carehot.com",
-    "page": "2024011088",
+    "page": "2024011044",
     "isNonProfit": true,
     "address": {
         "street": "Francis Park Road.",
@@ -16,7 +16,7 @@
            "backcolor":"#FFFFFF",
            "details":{
                   "id":"2024011014402301",
-                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "detail": "aHR0cHM6Ly93ZXVuaW9ucy5jb20v",
                   "isread":true,
                   "islove":false
            }
