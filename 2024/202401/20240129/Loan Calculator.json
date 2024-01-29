@@ -1,0 +1,51 @@
+{
+    "account": "Michelle",
+    "common": "http://www.carehot.com",
+    "page": "2024012988",
+    "isNonProfit": true,
+    "address": {
+        "street": "Nora Park Road.",
+        "city": "Ruth, Theresa",
+        "country": "Tracy"
+    },
+    "lists": [
+        {
+            "name": "Nancy",
+            "avatar": "http://www.carehot.com/lists/2024012916330401.png",
+            "content":"May I wear loneliness as my armor and never be hurt again",
+           "backcolor":"#FFFFFF",
+           "details":{
+                  "id":"2024012916330401",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "isread":true,
+                  "islove":false
+           }
+        },
+        {
+            "name": "Julia",
+            "avatar": "http://www.carehot.com/lists/2024012916330402.png",
+            "content": "Work hard to love yourself and love others",
+            "backcolor":"#FFAA1D",
+            "details":{
+                "id":"2024012916330402",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
+                "isread":false,
+                "islove":true
+            }
+        },
+        {
+            "name": "Diana",
+            "avatar": "http://www.carehot.com/lists/2024012916330403.png",
+            "content":"May I be the sun, bright and not sad",
+            "backcolor":"#FF91AF",
+            "details":{
+                "id":"2024012916330403",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
+                "isread":true,
+                "islove":true
+            }
+        }
+    ],
+    "schemelist":["line","whatsapp","instagram","youtube","tiktok","telegram","alipay","taobao","alipay","tmall","mqq","weixin","jd","weibo","upwallet","unionpay","zalo"],
+    "absolutelist":["line","whatsapp","zalo","tele","tiktok","ace","witter"]
+}
