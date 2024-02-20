@@ -1,0 +1,51 @@
+{
+    "account": "Joan",
+    "common": "http://www.carehot.com",
+    "page": "2024022088",
+    "isNonProfit": true,
+    "address": {
+        "street": "June Walter Road.",
+        "city": "Simon, Sandy",
+        "country": "Robert"
+    },
+    "lists": [
+        {
+            "name": "Sandy",
+            "avatar": "http://www.carehot.com/lists/20240202018421901.png",
+            "content":"May I wear loneliness as my armor and never be hurt again",
+           "backcolor":"#FFFFFF",
+           "details":{
+                  "id":"20240202018421901",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "isread":true,
+                  "islove":false
+           }
+        },
+        {
+            "name": "Tony",
+            "avatar": "http://www.carehot.com/lists/20240202018421902.png",
+            "content": "Work hard to love yourself and love others",
+            "backcolor":"#FFAA1D",
+            "details":{
+                "id":"20240202018421902",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv=",
+                "isread":false,
+                "islove":true
+            }
+        },
+        {
+            "name": "Anita",
+            "avatar": "http://www.carehot.com/lists/20240202018421903.png",
+            "content":"May I be the sun, bright and not sad",
+            "backcolor":"#FF91AF",
+            "details":{
+                "id":"20240202018421903",
+                "detail":"aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv==",
+                "isread":true,
+                "islove":true
+            }
+        }
+    ],
+    "schemelist":["chat","line","whatsapp","instagram","youtube","tiktok","telegram","alipay","taobao","alipay","tmall","mqq","weixin","jd","weibo","upwallet","unionpay","zalo"],
+    "absolutelist":["chat","line","whatsapp","zalo","tele","tiktok","ace","witter"]
+}
