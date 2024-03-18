@@ -1,7 +1,7 @@
 {
     "account": "Frederick",
     "common": "http://www.caryi.com",
-    "page": "2023110144",
+    "page": "2023110188",
     "isNonProfit": true,
     "address": {
         "street": "Science Park Road.",
@@ -16,7 +16,7 @@
            "backcolor":"#FFFFFF",
            "details":{
                   "id":"2023110118393001",
-                  "detail": "aHR0cHM6Ly9hcHAuc3VwcGx5c2hvcHNiLmNvbQ==",
+                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
                   "isread":true,
                   "islove":false
 }
